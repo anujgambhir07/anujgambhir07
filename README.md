@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Anuj%20Gambhir&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=ML%20Engineer%20%E2%80%A2%20GenAI%20Builder%20%E2%80%A2%20Strategy%20%26%20Data&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,24&height=200&section=header&text=Anuj%20Gambhir&fontSize=60&fontColor=fff&fontAlignY=35&desc=ML%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Strategy%20%26%20Data&descSize=18&descAlignY=56" width="100%"/>
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-gambhir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-gambhir-4651ab402/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujgambhir07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anujgambhir07)
 [![Profile Views](https://komarev.com/ghpvc/?username=anujgambhir07&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/anujgambhir07)
@@ -174,7 +174,7 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=anujgambhir07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=anujgambhir07&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujgambhir07&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -187,7 +187,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anujgambhir07&theme=tokyonight&column=6&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anujgambhir07&theme=darkhub&column=6&no-frame=true&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -212,11 +212,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-gambhir)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-gambhir-4651ab402/)
 [![Email](https://img.shields.io/badge/Send%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujgambhir07@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,24&height=100&section=footer" width="100%"/>
 
 </div>
