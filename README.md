@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,24&height=200&section=header&text=Anuj%20Gambhir&fontSize=60&fontColor=fff&fontAlignY=35&desc=ML%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Strategy%20%26%20Data&descSize=18&descAlignY=56" width="100%"/>
+<h1>👋 Anuj Gambhir</h1>
 
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+RAG+Systems+%26+LLM-Powered+Products;ML+Pipelines+%7C+5G+Research+%7C+Data+Engineering;McKinsey+Forward+Alumni+%7C+Case+Competition+Winner;DTU+Sophomore+%E2%80%A2+Open+to+AI+%26+Strategy+Roles" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=ML+Engineer+%7C+GenAI+Builder+%7C+Data+Strategist;Building+RAG+Systems+%26+LLM-Powered+Products;McKinsey+Forward+Alumni+%7C+Case+Competition+Winner;DTU+Sophomore+%E2%80%A2+Open+to+AI+%26+Strategy+Roles" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -159,8 +155,9 @@
 
 <div align="center">
 
-| 🥇 | **1st Place / Winner** — SCEE DTU Case Competition *(Data-backed Go-to-Market & Marketing Expansion Frameworks)* |
+| | |
 |:---:|:---|
+| 🥇 | **1st Place / Winner** — SCEE DTU Case Competition *(Data-backed Go-to-Market & Marketing Expansion Frameworks)* |
 | 🥉 | **3rd Place** — DTU East Campus Case Competition *(Corporate Strategy & Operational Turnaround with Quantitative Modeling)* |
 | 🏅 | **Top 5 Finalist** — Marksoc DTU Marketing Challenge *(Quantitative Consumer Insights Track)* |
 | 🏆 | **Winner** — Brand Blend Challenge *(Brand Architecture & Strategic Pitch Execution)* |
@@ -182,12 +179,6 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anujgambhir07&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anujgambhir07&theme=darkhub&column=6&no-frame=true&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -217,6 +208,8 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,24&height=100&section=footer" width="100%"/>
+![footer](https://img.shields.io/badge/-%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94-0f2027?style=for-the-badge)
+
+*Thanks for visiting! ⭐ Star a repo if you find something useful.*
 
 </div>
